@@ -1,10 +1,10 @@
-<mxfile host="www.draw.io" modified="2019-12-30T13:58:27.365Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="U3rtDMz7Z5Otn-jHgsRb" version="12.4.7" type="github">
+<mxfile host="www.draw.io" modified="2019-12-30T14:03:38.192Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="8OFNs1kcgUXAHskzQ7so" version="12.4.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2249" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0"/>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0"/>
-        <mxCell id="EmmUgu1Hzr2x8R-h2A55-6" value="ThemeWatchFaceEngine" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="EmmUgu1Hzr2x8R-h2A55-6" value="ThemeWatchFaceEngine&lt;br&gt;extends Canvas...Engine" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="10" y="120" width="150" height="720" as="geometry"/>
         </mxCell>
         <mxCell id="EmmUgu1Hzr2x8R-h2A55-9" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="EmmUgu1Hzr2x8R-h2A55-6">
