@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-31T08:35:02.778Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="MSRLe1eS8E-VaSOERoWJ" version="12.4.7" type="github">
+<mxfile host="www.draw.io" modified="2019-12-31T08:35:52.063Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="xhMSFXMvKJ6zylI8yMwp" version="12.4.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2249" dy="1914" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -76,7 +76,7 @@
         <mxCell id="qkJoyznOmokm2uU84PoY-28" value="WatchFaceElementRoot&lt;br&gt;表盘根元素" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="380" y="160" width="250" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="qkJoyznOmokm2uU84PoY-29" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qkJoyznOmokm2uU84PoY-23" target="qkJoyznOmokm2uU84PoY-2">
+        <mxCell id="qkJoyznOmokm2uU84PoY-29" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="qkJoyznOmokm2uU84PoY-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="240" y="220" as="sourcePoint"/>
             <mxPoint x="239.98" y="280" as="targetPoint"/>
