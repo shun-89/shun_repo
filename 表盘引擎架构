@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-31T08:44:02.827Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="5LX93Z1OK8B5TWAXS7Jk" version="12.4.7" type="github">
+<mxfile host="www.draw.io" modified="2019-12-31T08:59:21.338Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="ToI9z0_R9CBn2jhVuB5f" version="12.4.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2249" dy="1914" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -58,7 +58,7 @@
             <mxPoint x="359.98" y="390" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="qkJoyznOmokm2uU84PoY-23" value="Style管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="qkJoyznOmokm2uU84PoY-23" value="表盘与Style管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="170.00000000000003" y="160" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="qkJoyznOmokm2uU84PoY-25" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qkJoyznOmokm2uU84PoY-1" target="qkJoyznOmokm2uU84PoY-28">
